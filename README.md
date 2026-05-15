@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Raphael Canestrale! 👋
 
-<!--
-**FaelzN/FaelzN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Front-End Developer | Web Designer | Estudante de ADS
 
-Here are some ideas to get you started:
+Olá! Me chamo Raphael e sou apaixonado por tecnologia, design e criação de experiências digitais modernas. Atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS) e focado em evoluir cada vez mais como desenvolvedor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Sobre mim
+📍 São José dos Campos - SP
+🎓 Estudante de ADS
+💻 Desenvolvedor Front-End
+🎨 Web Designer
+⚡ Foco em interfaces modernas, responsivas e de alta conversão
+🛠️ Tecnologias que uso
+HTML5
+CSS3
+JavaScript
+Next Js
+UI/UX Design
+Responsividade & Design Moderno
+💡 O que eu faço
+Criação de sites profissionais
+Landing pages de alta conversão
+Interfaces modernas e responsivas
+Design focado em experiência do usuário
