@@ -15,7 +15,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** e sigo evoluin
 
 - Aprofundando meus conhecimentos em React, TypeScript e Node.js
 - Desenvolvendo sites, landing pages e interfaces responsivas
-- Transformando ideias em experiências digitais claras e funcionais!
+- Transformando ideias em experiências digitais claras e funcionais
 
 ### Tecnologias
 
