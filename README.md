@@ -27,5 +27,4 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** e sigo evoluin
 
 <div>
   <a href="https://www.linkedin.com/in/raphael-canestrale-66a65b2b4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=CAD202" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/fael7c/" target="_blank"><img src="https://img.shields.io/badge/Instagram-CAD202?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram" /></a>
 </div>
