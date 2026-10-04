@@ -9,7 +9,7 @@
 
 Crio interfaces modernas, responsivas e focadas em uma boa experiência para quem usa. Trabalho com **React, TypeScript e JavaScript** no front-end e uso **Node.js** para desenvolver aplicações web completas.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** e sigo evoluindo por meio de projetos práticos, explorando desde o design da interface até a implementação.
+Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** e sigo evoluindo por meio de projetos práticos, explorando desde o design da interface até a implementação.!
 
 ### Agora
 
